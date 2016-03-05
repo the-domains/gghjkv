@@ -1,0 +1,28 @@
+name: gghjkv
+favicon: null
+layout_spectrum: 0.1054446289781481
+typography_spectrum: 0.7537859734147787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9277050723321736
+  lightness: 0.14275438617914915
+  saturation: 0.655818137107417
+  rhythmicContrast: 0.6101643231231719
+purpose: []
